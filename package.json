@@ -1,0 +1,26 @@
+{
+  "name": "kuu",
+  "version": "0.0.0",
+  "description": "Nothing yet.",
+  "bin": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=7.0.0"
+  },
+  "author": "LLQ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llqgit/kuu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/llqgit/kuu/issues"
+  },
+  "site": "http://baidu.com",
+  "homepage": "https://github.com/llqgit/kuu#readme",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
+}
